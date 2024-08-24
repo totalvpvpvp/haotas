@@ -18,7 +18,7 @@
 * 几乎整年无需更换节点更新订阅的高稳定性
 * 办公商务客群为主价格稳定服务稳定不折腾11111111111111
 
-## 套餐列表
+## 套餐列表1
 
 <table><thead><tr><th align="center">套餐名称</th><th align="center">流量 ( 每月 )</th><th align="center">价格 ( 年付 )</th></tr></thead><tbody><tr><td align="center">80GB 共享型</td><td align="center">80GB</td><td align="center">¥ 270</td></tr><tr><td align="center">200GB 共享型</td><td align="center">200GB</td><td align="center">¥ 540</td></tr><tr><td align="center">1TB 定制型</td><td align="center">1TB</td><td align="center">¥ 6000</td></tr></tbody></table>
 
